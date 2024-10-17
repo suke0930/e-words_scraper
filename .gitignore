@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.history/**
+.取得リスト.txt
+.問題データ.csv
+取得リスト.txt
